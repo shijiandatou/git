@@ -6,7 +6,6 @@ https://github.com/join
 、、、
 
 # 二、 安装git
-、、、
 
 在命令行中分别配置用户名和邮箱
 
