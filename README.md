@@ -12,7 +12,7 @@ https://github.com/join
 ```
 
 git config --global uesr.nam 'github用户名'
-git config --global uesr.rmail 'github邮箱'
+git config --global uesr.email 'github邮箱'
 
 ```
 
@@ -24,5 +24,14 @@ git config --global uesr.rmail 'github邮箱'
 mkdir git   新建一个空的目录        
 cd git      进入这个目录
 git init    初始化一个git仓库
+
+```
+# 工作流程
+
+```
+touch 1.txt 创建一个文件
+git add 1.txt 添加暂存区
+git commit -m 'add' 把文件添加历史区 
+git log  查看历史纪录
 
 ```
