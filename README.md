@@ -11,7 +11,7 @@ https://github.com/join
 
 ```
 
-git config --global user.nam 'github用户名'
+git config --global user.name 'github用户名'
 git config --global user.email 'github邮箱'
 
 ```
